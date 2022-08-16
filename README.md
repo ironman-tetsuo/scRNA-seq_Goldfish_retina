@@ -6,6 +6,7 @@ Raw fastq files were converted to gene expression matrix (UMI matrix) using cell
 Data sets of goldfish and those of zebrafish (Hoang 2020, http://bioinfo.wilmer.jhu.edu/jiewang/scRNAseq/Count_matrix/) were integrated using NormalizeData/FindVariableFeatures/SelectIntegrationFeatures/FindIntegrationAnchors.  
 Thereafter, data was scaled and PCA and UMAP were conducted.  
 FindNeighbors/FindClusters functions were used to annotated cell types and mark/remove putative doublet cells.  
+The input datasets are available in the figshare repository (DOI:10.6084/m9.figshare.20496825).  
 
 ## Data load
 
