@@ -1,4 +1,4 @@
-# Single-cell RNA-seq analysis of goldfish retina
+# Single-cell RNA-seq analysis of the goldfish retina
 
 This is the summary R scripts for analysis of single-cell RNA-seq of the goldfish retina. The goldfish retinas were treated by the Neuron dissociation solutions (291-78001, Fujifilm) and followed by gentle pipetting.  
 The single-cell RNA-seq libraries were prepared using the 10x Genomics Chromium Single Cell system using the v3.1 chemistry per manufacturer’s instructions.  
